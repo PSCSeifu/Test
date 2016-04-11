@@ -10,6 +10,8 @@ namespace HelloWordl2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            System.Threading.Thread.Sleep(3000);
         }
     }
 }
